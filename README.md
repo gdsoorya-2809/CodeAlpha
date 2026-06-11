@@ -6,7 +6,7 @@ Features
 Captures network traffic
 Displays source IP addresses 
 Displays destination IP addresses
-Real-time packet monitoring
+Real-time packet monitoring   
 Technologies Used
 Python
 Scapy
